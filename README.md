@@ -6,6 +6,7 @@ This is a simple Pizza Game which was created using programming language C.
 
 * [VisualBoyAdvance](https://sourceforge.net/projects/vba/) - The web framework used
 * [Audacity](https://www.audacityteam.org/) - Used for converting sound file
+* [Usenti](https://www.coranac.com/projects/usenti/) - Spritesheets and Backgrounds
 
 ## Acknowledgments
 
