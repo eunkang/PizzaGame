@@ -1,6 +1,6 @@
 # Pizza Game
 
-This is a simple Pizza Game which was created using programming language C.
+This is a simple Pizza Game with programming language C.
 
 ## Built With
 
