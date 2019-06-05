@@ -21,5 +21,5 @@ This is a simple Pizza Game with programming language C.
 * B - cheat key
 * Start - Start, pause game
 
-
+### Screenshots
 <img width="399" alt="Screen Shot 2019-06-05 at 6 03 06 PM" src="https://user-images.githubusercontent.com/31485226/58993713-4acc1180-87bc-11e9-96d1-48826f77dbe0.png">
