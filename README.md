@@ -22,4 +22,4 @@ This is a simple Pizza Game with programming language C.
 * Start - Start, pause game
 
 ### Screenshots
-<img width="399" alt="Screen Shot 2019-06-05 at 6 03 06 PM" src="https://user-images.githubusercontent.com/31485226/58993713-4acc1180-87bc-11e9-96d1-48826f77dbe0.png">
+<img width="1000" alt="Screen Shot 2019-06-05 at 6 03 06 PM" src="https://user-images.githubusercontent.com/31485226/58994331-240eda80-87be-11e9-8595-50dbc79383ce.png">
